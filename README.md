@@ -1,2 +1,2 @@
 # FreePing
-Is Ezping But Free
+Is Ezping But Free and better
